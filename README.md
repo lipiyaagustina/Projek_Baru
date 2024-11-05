@@ -8,4 +8,4 @@
 
 ## SS hasil projek
 
-# ![(assets/ss camera.png)]
+# ![screenShoot pratikum](assets/ss camera.png)
