@@ -8,4 +8,4 @@
 
 ## SS hasil projek
 
-![screenShoot pratikum](assets/10.png)
+![Screenshot 10](assets/10.png)
